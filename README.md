@@ -1,2 +1,2 @@
 # repo1
-new
+Welcome to the coding summer school
